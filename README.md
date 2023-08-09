@@ -8,7 +8,7 @@
 ## Step 1: 
 Dowload and setup VLC Media player to your computer
 
-![VLC](image\VLC.png)
+![VLC](image/VLC.png)
 
 ## Step 2: 
 Install termcolor, python-vlc, sys, threading, os, time to your computer
