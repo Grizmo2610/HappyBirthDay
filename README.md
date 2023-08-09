@@ -7,6 +7,7 @@
 
 ## Step 1: 
 Dowload and setup VLC Media player to your computer
+Hello!
 
 ![VLC](image/VLC.png)
 

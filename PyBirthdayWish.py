@@ -11,7 +11,7 @@ from config import *
 
 # Importing module specified in the config file
 art = __import__(f'arts.{artFile}', globals(), locals(), ['*'])
-
+temp = "Hello"
 
 def replaceMultiple(mainString, toBeReplace, newString):
     """[Replace a set of multiple sub strings with a new string]
